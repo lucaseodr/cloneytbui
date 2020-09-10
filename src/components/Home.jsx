@@ -16,9 +16,8 @@ import {
   Box,
   Grid,
   Hidden,
-  Switch,
 } from "@material-ui/core";
-import { useTheme } from "@material-ui/core/styles";
+
 import MenuIcon from "@material-ui/icons/Menu";
 import AccountCircle from "@material-ui/icons/AccountCircle";
 
